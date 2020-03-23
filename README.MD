@@ -6,3 +6,4 @@
 |分类|
 | :------ |
 |[maven基础知识](src/main/java/com/xiu/fastMaven/basicknowledge/README.MD)|
+|[maven工程拆分与聚合](src/main/java/com/xiu/fastMaven/aggregation/README.MD)|
